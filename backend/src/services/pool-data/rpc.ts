@@ -4,7 +4,7 @@ import {
   UiPoolDataProviderContext,
   UiPoolDataProviderInterface,
   UserReserveDataHumanized,
-} from '@aave/contract-helpers';
+} from '@pret/contract-helpers';
 import { CONFIG } from '../../config';
 import { ProtocolData } from '../../graphql/object-types/reserve';
 import { UserReserveData } from '../../graphql/object-types/user-reserve';

@@ -1,4 +1,4 @@
-import { Denominations } from '@aave/contract-helpers';
+import { Denominations } from '@pret/contract-helpers';
 import { registerDecorator, ValidationArguments, ValidationOptions } from 'class-validator';
 import { isAddress } from 'ethers/lib/utils';
 

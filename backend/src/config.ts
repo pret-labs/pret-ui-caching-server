@@ -1,4 +1,4 @@
-import { ChainId } from '@aave/contract-helpers';
+import { ChainId } from '@pret/contract-helpers';
 import { getParam, getParamOrExit } from './env-helpers';
 
 export const REDIS_HOST = getParamOrExit('REDIS_HOST');

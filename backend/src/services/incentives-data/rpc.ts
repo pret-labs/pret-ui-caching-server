@@ -5,7 +5,7 @@ import {
   UiIncentiveDataProviderContext,
   UiIncentiveDataProviderInterface,
   UserReserveIncentiveDataHumanizedResponse,
-} from '@aave/contract-helpers';
+} from '@pret/contract-helpers';
 import { ethereumProvider } from '../../helpers/ethereum';
 import { CONFIG } from '../../config';
 import { ReserveIncentivesData } from '../../graphql/object-types/incentives';
