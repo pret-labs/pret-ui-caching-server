@@ -1,4 +1,4 @@
-import { Denominations } from '@aave/contract-helpers';
+import { Denominations } from '@pret/contract-helpers';
 import { CONFIG } from '../../config';
 import { runTask } from '../task-helpers';
 import { handler, running, startUp } from './handler';

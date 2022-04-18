@@ -1,4 +1,4 @@
-import { Denominations } from '@aave/contract-helpers';
+import { Denominations } from '@pret/contract-helpers';
 import {
   Args,
   ArgsType,
